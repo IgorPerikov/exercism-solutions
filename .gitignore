@@ -8,3 +8,5 @@ target
 build
 test-output
 
+.gradle
+META-INF/
